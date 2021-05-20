@@ -53,7 +53,7 @@ def end(nl):
   delimiter=''
   a=delimiter.join(nl)
   print('\nThe word is',a)
-  print('\t\t\t''''
+  print('''
     _______
     |      |
     ()     |
